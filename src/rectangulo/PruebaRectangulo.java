@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class PruebaRectangulo {
 
 	public static void main(String[] args) {
-		  double base=0;
-		  double altura=0;
-		  int confir=0;
+		  double base = 0;
+		  double altura = 0;
+		  int confir = 0;
 		  Scanner reader = new Scanner(System. in);
 			
 		  Rectangulo r = new Rectangulo(base, altura);
